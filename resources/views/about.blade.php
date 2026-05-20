@@ -137,7 +137,7 @@ body{
                         Acerca de ProTasker
                     </span>
 
-                    <h1 class="about-title">Gestión inteligente para equipos</h1>
+                    <h1 class="about-title">Gestión de proyectos y tareas</h1>
 
                     <p class="about-text">
                         ProTasker es una aplicación orientada a la gestión de proyectos, tareas y usuarios dentro de una estructura organizada por roles.
