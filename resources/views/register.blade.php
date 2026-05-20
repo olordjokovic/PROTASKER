@@ -409,8 +409,8 @@ body{
                         <div class="auth-panel">
                             <h5>ProTasker</h5>
                             <p>
-                                Plataforma inteligente para organizar proyectos, asignar tareas,
-                                gestionar equipos y mantener la productividad bajo control.
+                                Plataforma para organizar proyectos, asignar tareas,
+                                y mantener la productividad bajo control.
                             </p>
 
                             <div class="metric-card">
