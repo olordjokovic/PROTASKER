@@ -10,7 +10,7 @@
     <table class="table table-bordered align-middle">
         <thead>
             <tr>
-                <th>ID</th>
+                
                 <th>Nombre</th>
                 <th>Email</th>
                 <th>Rol</th>
@@ -20,7 +20,7 @@
         <tbody>
         @foreach($users as $item)
             <tr>
-                <td>{{ $item->id }}</td>
+                
                 <td>{{ $item->name }} {{ $item->surname }}</td>
                 <td>{{ $item->email }}</td>
                 <td>{{ $item->role?->name }}</td>
