@@ -10,7 +10,7 @@
     <table class="table table-bordered align-middle">
         <thead>
             <tr>
-                <th>ID</th>
+                
                 <th>Proyecto</th>
                 <th>Usuario</th>
                 <th>Estado</th>
@@ -20,7 +20,7 @@
         <tbody>
         @foreach($projects as $item)
             <tr>
-                <td>{{ $item->id }}</td>
+               
                 <td>{{ $item->name }}</td>
                 <td>{{ $item->user?->name }}</td>
                 <td>{{ $item->status }}</td>
