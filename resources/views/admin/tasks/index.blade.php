@@ -15,7 +15,7 @@
 
         <thead>
             <tr>
-                <th>ID</th>
+                
                 <th>Título</th>
                 <th>Descripción</th>
                 <th>Asignada a</th>
@@ -32,7 +32,7 @@
         @forelse($tasks as $item)
 
             <tr>
-                <td>{{ $item->id }}</td>
+                
 
                 <td>
                     {{ $item->title }}
